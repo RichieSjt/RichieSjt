@@ -3,7 +3,7 @@
 My name is Ricardo Juárez, I am a computer science student who aims to become a full stack developer. I love to always be learning new technologies and skills to be able to apply them in my projects.
 
 [![GitHub Badge](https://img.shields.io/badge/RichieSjt-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/RichieSjt/)](https://github.com/RichieSjt)
-[![Outlook Badge](https://img.shields.io/badge/richie_j20@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:richie_j20@outlook.com)](mailto:richie_j20@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/richie__j20@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:richie_j20@outlook.com)](mailto:richie_j20@outlook.com)
 
 
 ### Tools
