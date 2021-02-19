@@ -16,7 +16,6 @@ My name is Ricardo Juárez, I am a computer science student who aims to become a
 ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)
 ![PHP Badge](https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white)
 ![C Badge](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white)
-<!-- ![C++ Badge](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white) -->
 ![C# Badge](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5 Badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
@@ -24,6 +23,7 @@ My name is Ricardo Juárez, I am a computer science student who aims to become a
 ![Swift Badge](https://img.shields.io/badge/swift-%23FA7343.svg?&style=flat-square&logo=swift&logoColor=white)
 ![LaTeX Badge](https://img.shields.io/badge/latex%20-%23008080.svg?&style=flat-square&logo=latex&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
+<!-- ![C++ Badge](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white) -->
 
 ### Frameworks
 ![Bootstrap Badge](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)
